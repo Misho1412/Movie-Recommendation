@@ -17,3 +17,12 @@
     npm start
 
      
+   
+
+
+
+
+ ---
+ ## References 
+ 1. TMDB's API : https://www.themoviedb.org/documentation/api
+ 2. Cosine Similarity : https://www.machinelearningplus.com/nlp/cosine-similarity/
